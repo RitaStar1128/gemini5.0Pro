@@ -573,7 +573,7 @@
         <div class="message-avatar ai">${GEMINI_STAR_SVG}</div>
         <div class="message-content">
           <div class="message-meta">
-            <span class="message-role">Gemini 5.0 Pro</span>
+            <span class="message-role">Gemini 42 Pro</span>
             <time class="message-time">${timeText}</time>
           </div>
           <div class="message-bubble ai-bubble">
@@ -606,7 +606,7 @@
         <div class="message-avatar ai">${GEMINI_STAR_SVG}</div>
         <div class="message-content">
           <div class="message-meta">
-            <span class="message-role">Gemini 5.0 Pro</span>
+            <span class="message-role">Gemini 42 Pro</span>
             <time class="message-time">${timestamp}</time>
           </div>
           <div class="message-bubble ai-bubble">
@@ -1304,3 +1304,4 @@
 
     init();
 })();
+
